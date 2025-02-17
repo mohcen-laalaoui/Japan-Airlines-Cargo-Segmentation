@@ -30,14 +30,13 @@ The dataset contains the following columns:
    ```bash
    git clone https://github.com/mohcen-laalaoui/Japan-Airlines-Cargo-Segmentation.git
    cd Japan-Airlines-Cargo-Segmentation
-
-pip install numpy pandas scikit-learn matplotlib
+   pip install numpy pandas scikit-learn matplotlib
 
 # Code Structure
-Japan-Airlines-Cargo-Segmentation/
-├── data/
-│   ├── japan_airlines_cargo_traffic.csv          # Input dataset
-│   └── japan_airlines_cargo_traffic_segmented.csv # Output segmented data
-├── kmeans_clustering.py                         # Main Python script
-├── README.md                                    # Project documentation
-└── cluster_visualization.png                    # Cluster visualization image
+  Japan-Airlines-Cargo-Segmentation/
+  ├── data/
+  │   ├── japan_airlines_cargo_traffic.csv          # Input dataset
+  │   └── japan_airlines_cargo_traffic_segmented.csv # Output segmented data
+  ├── kmeans_clustering.py                         # Main Python script
+  ├── README.md                                    # Project documentation
+  └── cluster_visualization.png                    # Cluster visualization image
