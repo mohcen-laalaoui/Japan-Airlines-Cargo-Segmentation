@@ -34,9 +34,9 @@ The dataset contains the following columns:
 
 # Code Structure
   Japan-Airlines-Cargo-Segmentation/
-  ├── data/
-  │   ├── japan_airlines_cargo_traffic.csv          # Input dataset
-  │   └── japan_airlines_cargo_traffic_segmented.csv # Output segmented data
-  ├── kmeans_clustering.py                         # Main Python script
-  ├── README.md                                    # Project documentation
-  └── cluster_visualization.png                    # Cluster visualization image
+├── data/
+│   ├── japan_airlines_cargo_traffic.csv             # Input dataset
+│   └── japan_airlines_cargo_traffic_segmented.csv   # Output segmented data
+├── kmeans_clustering.py                             # Main Python script
+├── README.md                                        # Project documentation
+└── cluster_visualization.png                        # Cluster visualization image
