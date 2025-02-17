@@ -1,0 +1,201 @@
+Cargo_ID,Date,Origin,Destination,Cargo_Type,Weight_kg,Volume_m3,Priority,Status,Revenue_USD
+JAL001,2024-08-28,Sapporo,Singapore,Pharmaceuticals,3093.37,36.59,High,In Transit,4592.54
+JAL002,2024-07-04,Osaka,Singapore,Textiles,4240.1,12.83,High,In Transit,6410.83
+JAL003,2024-09-13,Osaka,Shanghai,Perishable,961.4,13.95,Low,Delayed,7241.86
+JAL004,2024-06-17,Tokyo,Sydney,Pharmaceuticals,4848.9,1.24,High,Delayed,5437.93
+JAL005,2024-09-27,Nagoya,Sydney,Textiles,862.2,38.62,Low,Delivered,697.67
+JAL006,2024-08-28,Fukuoka,London,Pharmaceuticals,4667.45,21.2,Low,Delivered,6978.92
+JAL007,2024-10-28,Osaka,Singapore,Pharmaceuticals,4063.17,4.45,High,Delivered,9801.48
+JAL008,2024-03-26,Nagoya,Sydney,Pharmaceuticals,4241.55,13.9,High,Delayed,1874.95
+JAL009,2024-08-21,Nagoya,London,Electronics,3757.36,2.25,High,Delivered,6580.04
+JAL010,2024-12-16,Fukuoka,Sydney,Pharmaceuticals,1994.01,15.26,High,In Transit,742.55
+JAL011,2024-09-24,Sapporo,London,Textiles,1443.47,41.99,Low,Delivered,7384.84
+JAL012,2024-10-09,Osaka,London,Machinery,3713.49,24.78,High,In Transit,5484.55
+JAL013,2024-07-17,Osaka,Sydney,Textiles,4665.68,40.45,Low,Delayed,3541.36
+JAL014,2024-07-23,Fukuoka,Sydney,Machinery,406.77,33.46,Low,In Transit,4143.91
+JAL015,2024-09-06,Sapporo,Shanghai,Pharmaceuticals,1090.6,41.16,Low,Delayed,8823.78
+JAL016,2024-08-22,Sapporo,New York,Pharmaceuticals,3965.7,37.84,Low,In Transit,1608.72
+JAL017,2024-10-13,Fukuoka,London,Pharmaceuticals,1135.29,32.82,High,Delayed,3132.29
+JAL018,2025-01-13,Fukuoka,Singapore,Textiles,758.01,33.75,High,In Transit,5509.68
+JAL019,2024-05-03,Fukuoka,New York,Machinery,1185.67,39.28,Medium,Delivered,9356.67
+JAL020,2025-01-02,Sapporo,New York,Textiles,2128.51,45.1,Low,In Transit,803.37
+JAL021,2025-01-08,Tokyo,Singapore,Pharmaceuticals,168.77,33.17,Medium,Delayed,7769.9
+JAL022,2024-09-27,Sapporo,Singapore,Electronics,3767.03,33.05,Low,Delayed,6609.39
+JAL023,2024-09-22,Sapporo,Shanghai,Pharmaceuticals,4132.11,43.55,High,Delayed,3000.08
+JAL024,2024-08-04,Sapporo,New York,Textiles,236.6,10.61,Medium,Delayed,3664.64
+JAL025,2024-10-20,Sapporo,Shanghai,Perishable,2328.53,25.96,High,Delivered,1681.65
+JAL026,2025-01-22,Fukuoka,Sydney,Textiles,123.07,4.05,Medium,In Transit,8842.96
+JAL027,2024-03-21,Fukuoka,Sydney,Textiles,139.3,21.59,Low,Delivered,3325.96
+JAL028,2025-01-13,Tokyo,New York,Pharmaceuticals,1543.73,15.94,Low,Delivered,2764.47
+JAL029,2024-03-13,Fukuoka,New York,Electronics,1730.43,2.77,Low,In Transit,9488.94
+JAL030,2024-12-15,Sapporo,Shanghai,Pharmaceuticals,965.66,9.37,Medium,In Transit,2787.44
+JAL031,2025-02-09,Sapporo,Singapore,Electronics,4930.75,17.24,Medium,In Transit,1173.74
+JAL032,2024-07-20,Nagoya,London,Electronics,201.26,15.95,Medium,Delivered,3085.96
+JAL033,2024-09-28,Nagoya,Shanghai,Electronics,731.31,1.74,Low,In Transit,7397.08
+JAL034,2024-11-06,Fukuoka,Singapore,Machinery,2708.83,33.95,Medium,In Transit,7171.36
+JAL035,2024-06-03,Osaka,Shanghai,Pharmaceuticals,4241.83,1.65,Low,In Transit,5481.28
+JAL036,2024-12-21,Fukuoka,London,Perishable,4597.29,17.66,Medium,In Transit,3637.18
+JAL037,2024-10-09,Tokyo,New York,Pharmaceuticals,436.94,47.83,Medium,In Transit,4063.34
+JAL038,2024-08-01,Osaka,Sydney,Machinery,3190.56,26.34,Medium,Delayed,8915.42
+JAL039,2024-06-04,Nagoya,Sydney,Pharmaceuticals,2557.26,47.0,Medium,Delivered,6662.88
+JAL040,2024-02-29,Sapporo,Singapore,Textiles,2765.76,2.7,Low,Delivered,6038.66
+JAL041,2024-08-20,Fukuoka,London,Textiles,1477.25,42.19,Medium,Delayed,1707.27
+JAL042,2024-05-04,Nagoya,New York,Pharmaceuticals,3855.23,9.79,Low,Delivered,8542.34
+JAL043,2024-10-11,Osaka,Sydney,Pharmaceuticals,2665.11,38.48,High,Delivered,2938.78
+JAL044,2024-05-23,Osaka,London,Pharmaceuticals,1580.95,47.93,High,In Transit,6047.94
+JAL045,2024-05-30,Tokyo,Shanghai,Machinery,4702.95,44.69,High,Delivered,7933.56
+JAL046,2025-01-24,Fukuoka,Shanghai,Pharmaceuticals,4526.97,22.38,High,In Transit,9014.1
+JAL047,2024-07-23,Fukuoka,Sydney,Perishable,1614.58,15.28,Medium,In Transit,2250.9
+JAL048,2025-01-09,Osaka,Sydney,Textiles,2237.39,47.51,Medium,Delayed,3974.13
+JAL049,2024-07-08,Nagoya,London,Machinery,591.41,1.05,Low,Delayed,2317.91
+JAL050,2024-11-26,Sapporo,Sydney,Perishable,2821.53,26.27,Medium,Delivered,896.41
+JAL051,2024-09-20,Tokyo,Sydney,Pharmaceuticals,128.7,28.02,Medium,In Transit,8574.44
+JAL052,2024-08-28,Tokyo,Shanghai,Textiles,4690.82,1.67,Low,In Transit,1746.46
+JAL053,2024-10-06,Tokyo,Singapore,Pharmaceuticals,1691.1,5.25,High,Delivered,7212.33
+JAL054,2025-01-10,Tokyo,Sydney,Machinery,412.05,8.86,Medium,In Transit,5389.14
+JAL055,2025-02-08,Nagoya,New York,Pharmaceuticals,2386.09,35.42,Medium,Delayed,7467.13
+JAL056,2024-04-14,Sapporo,New York,Perishable,4744.23,17.49,Medium,Delayed,5977.62
+JAL057,2024-12-29,Sapporo,Sydney,Perishable,4734.98,16.66,Low,In Transit,5050.61
+JAL058,2025-01-07,Sapporo,London,Perishable,3999.19,29.57,Low,Delayed,8072.14
+JAL059,2024-12-30,Osaka,London,Electronics,3669.69,5.26,Low,In Transit,3833.45
+JAL060,2024-03-28,Osaka,London,Textiles,1670.47,10.86,High,Delayed,9362.62
+JAL061,2024-08-27,Nagoya,Sydney,Machinery,806.25,25.39,High,In Transit,1774.43
+JAL062,2024-09-13,Tokyo,New York,Machinery,1518.49,17.89,High,Delayed,8029.25
+JAL063,2024-05-29,Osaka,Shanghai,Machinery,635.77,42.64,High,In Transit,6634.59
+JAL064,2024-08-22,Nagoya,London,Machinery,1498.27,34.35,High,Delivered,7462.24
+JAL065,2024-07-02,Nagoya,Sydney,Perishable,1996.61,34.95,High,In Transit,1055.53
+JAL066,2024-04-24,Osaka,Shanghai,Textiles,3825.19,32.79,High,In Transit,3622.01
+JAL067,2024-10-15,Tokyo,New York,Machinery,935.84,46.13,Medium,Delivered,5392.97
+JAL068,2024-12-16,Fukuoka,New York,Perishable,4237.77,7.04,High,Delayed,7191.57
+JAL069,2024-07-23,Tokyo,London,Machinery,100.85,9.17,High,Delivered,3273.98
+JAL070,2024-11-21,Tokyo,London,Textiles,1323.51,11.39,Low,Delayed,1595.36
+JAL071,2025-01-16,Osaka,New York,Electronics,1595.52,7.91,Low,Delivered,4211.17
+JAL072,2024-09-17,Sapporo,London,Textiles,397.5,31.06,High,Delivered,9363.38
+JAL073,2024-03-09,Sapporo,London,Pharmaceuticals,3626.41,27.13,Medium,Delivered,7130.31
+JAL074,2025-01-14,Sapporo,Sydney,Perishable,2917.86,5.62,Medium,In Transit,7727.61
+JAL075,2024-06-30,Tokyo,Singapore,Perishable,3553.72,39.85,Medium,In Transit,7328.12
+JAL076,2024-10-12,Tokyo,Sydney,Textiles,2913.62,8.16,High,Delayed,5894.97
+JAL077,2024-07-28,Sapporo,Singapore,Textiles,1029.46,16.97,High,Delayed,6559.88
+JAL078,2024-10-14,Fukuoka,New York,Electronics,3944.01,46.86,Low,Delivered,3081.97
+JAL079,2024-03-26,Tokyo,Sydney,Machinery,2230.72,16.34,Medium,In Transit,8131.74
+JAL080,2024-12-15,Osaka,Singapore,Perishable,4543.32,3.08,Low,Delivered,3875.54
+JAL081,2024-05-11,Sapporo,New York,Machinery,4390.87,43.71,Medium,Delayed,5941.86
+JAL082,2024-06-05,Nagoya,Sydney,Pharmaceuticals,2744.04,26.84,Medium,In Transit,5159.47
+JAL083,2024-10-17,Nagoya,Shanghai,Textiles,1388.41,14.28,Medium,In Transit,5780.28
+JAL084,2025-01-14,Tokyo,Sydney,Textiles,2755.24,37.53,Medium,Delayed,3174.05
+JAL085,2025-01-29,Osaka,Sydney,Pharmaceuticals,1437.93,28.46,High,Delayed,8449.31
+JAL086,2024-06-21,Nagoya,New York,Pharmaceuticals,1389.07,40.63,Low,Delayed,9512.67
+JAL087,2024-07-28,Sapporo,London,Textiles,602.62,15.27,Low,Delayed,5595.51
+JAL088,2025-01-18,Nagoya,London,Perishable,3804.95,24.73,High,Delivered,8613.45
+JAL089,2024-07-10,Tokyo,Sydney,Pharmaceuticals,1390.34,16.6,Low,Delivered,5907.17
+JAL090,2025-02-04,Osaka,Singapore,Electronics,1561.16,31.44,Low,Delayed,6915.63
+JAL091,2024-10-16,Fukuoka,London,Perishable,1481.41,37.26,High,In Transit,2245.69
+JAL092,2024-09-14,Tokyo,New York,Textiles,1174.96,8.21,Medium,Delivered,8308.01
+JAL093,2024-07-08,Fukuoka,Singapore,Machinery,3206.18,43.58,Low,Delayed,2918.05
+JAL094,2024-08-28,Nagoya,Shanghai,Machinery,3238.51,4.31,Medium,In Transit,8391.45
+JAL095,2025-01-22,Sapporo,New York,Machinery,3854.27,17.29,Medium,Delivered,9760.41
+JAL096,2024-05-17,Nagoya,New York,Machinery,2004.21,4.66,Low,Delivered,2869.16
+JAL097,2024-07-03,Nagoya,London,Machinery,3913.52,44.59,High,In Transit,2203.89
+JAL098,2024-04-26,Nagoya,Singapore,Pharmaceuticals,4938.4,31.5,Low,In Transit,1251.29
+JAL099,2024-11-22,Tokyo,Singapore,Machinery,2666.43,34.91,High,Delayed,2503.55
+JAL100,2024-03-29,Nagoya,Sydney,Pharmaceuticals,160.51,27.31,Low,Delivered,1134.71
+JAL101,2024-08-06,Nagoya,Sydney,Textiles,920.59,16.67,High,Delivered,3549.32
+JAL102,2024-04-08,Sapporo,Singapore,Textiles,4476.24,2.53,High,Delayed,9466.82
+JAL103,2024-06-18,Osaka,New York,Perishable,1922.41,45.66,Medium,Delivered,9089.9
+JAL104,2024-03-04,Sapporo,Shanghai,Textiles,248.16,36.4,Low,Delayed,5357.29
+JAL105,2024-04-27,Tokyo,Sydney,Electronics,2573.35,35.08,Medium,In Transit,7957.45
+JAL106,2024-11-24,Sapporo,Singapore,Electronics,2645.54,25.24,Medium,In Transit,7671.13
+JAL107,2025-02-01,Tokyo,Sydney,Textiles,3064.95,37.89,High,In Transit,3000.37
+JAL108,2024-12-26,Nagoya,Shanghai,Perishable,1808.1,29.23,High,Delivered,1383.77
+JAL109,2025-01-07,Osaka,New York,Machinery,3821.79,7.61,High,Delayed,1975.14
+JAL110,2024-07-28,Osaka,Sydney,Perishable,3727.31,2.56,Medium,Delayed,8766.97
+JAL111,2025-01-08,Fukuoka,Sydney,Machinery,3171.56,7.64,Low,Delayed,3878.35
+JAL112,2024-11-20,Tokyo,Sydney,Pharmaceuticals,3166.53,46.17,Low,Delayed,1151.37
+JAL113,2024-06-13,Tokyo,London,Pharmaceuticals,1314.06,5.36,High,Delayed,9097.55
+JAL114,2024-05-17,Tokyo,London,Machinery,2120.49,8.87,Low,In Transit,2163.58
+JAL115,2024-04-29,Fukuoka,Sydney,Textiles,4266.52,8.42,Medium,In Transit,9496.12
+JAL116,2024-06-12,Fukuoka,Singapore,Textiles,4735.75,20.88,Low,In Transit,504.65
+JAL117,2024-04-09,Nagoya,Singapore,Perishable,4935.57,26.4,Low,Delayed,1651.79
+JAL118,2024-09-04,Osaka,London,Textiles,1980.36,47.65,Low,In Transit,6117.25
+JAL119,2024-05-27,Fukuoka,Shanghai,Pharmaceuticals,4049.71,3.28,Low,Delayed,2831.63
+JAL120,2024-06-15,Sapporo,Singapore,Textiles,2803.9,39.36,High,Delivered,4646.87
+JAL121,2024-11-27,Sapporo,Sydney,Perishable,3028.06,44.53,High,Delayed,3996.88
+JAL122,2025-02-01,Osaka,Singapore,Machinery,2760.49,7.27,High,In Transit,7918.63
+JAL123,2024-09-25,Nagoya,London,Machinery,1727.95,22.19,High,Delivered,4672.58
+JAL124,2024-04-14,Tokyo,London,Pharmaceuticals,3026.98,41.4,Medium,Delivered,8285.84
+JAL125,2024-11-18,Nagoya,London,Pharmaceuticals,2936.66,21.01,High,Delivered,9655.27
+JAL126,2025-01-09,Tokyo,London,Pharmaceuticals,4957.14,45.55,High,Delivered,2047.08
+JAL127,2024-03-03,Sapporo,Sydney,Perishable,2577.19,41.87,Medium,In Transit,4817.58
+JAL128,2024-02-29,Osaka,Singapore,Electronics,164.69,6.91,Low,Delivered,5785.94
+JAL129,2024-03-01,Tokyo,Singapore,Textiles,413.66,13.31,Low,Delivered,9471.54
+JAL130,2024-08-30,Nagoya,London,Perishable,3232.18,29.05,High,Delivered,8603.53
+JAL131,2024-03-12,Sapporo,Singapore,Electronics,1806.09,27.28,High,Delayed,1786.24
+JAL132,2024-06-18,Osaka,Singapore,Perishable,2483.09,33.87,Medium,Delivered,3332.61
+JAL133,2024-11-15,Osaka,Sydney,Textiles,3563.89,3.87,Low,In Transit,8144.92
+JAL134,2024-06-27,Tokyo,Shanghai,Textiles,698.27,15.25,Low,Delayed,9689.85
+JAL135,2024-04-04,Nagoya,New York,Electronics,3922.19,14.62,Low,Delayed,4945.43
+JAL136,2025-01-30,Nagoya,Singapore,Perishable,1285.14,26.09,Medium,Delayed,5336.58
+JAL137,2025-01-11,Fukuoka,London,Pharmaceuticals,4035.99,24.09,Low,Delivered,1874.28
+JAL138,2024-07-15,Nagoya,London,Electronics,1429.2,36.84,Low,Delayed,2854.31
+JAL139,2024-03-19,Tokyo,New York,Perishable,486.27,22.03,High,In Transit,5382.48
+JAL140,2025-01-24,Nagoya,Shanghai,Electronics,4302.12,7.13,Low,Delayed,6964.88
+JAL141,2024-08-02,Osaka,Shanghai,Perishable,3953.69,36.43,High,In Transit,8356.49
+JAL142,2024-05-23,Osaka,Sydney,Machinery,309.22,9.82,High,In Transit,4251.54
+JAL143,2024-10-31,Sapporo,London,Machinery,3143.48,10.19,High,Delivered,3111.48
+JAL144,2024-10-05,Osaka,New York,Machinery,3178.7,21.02,Medium,Delayed,9102.69
+JAL145,2024-02-29,Sapporo,London,Textiles,2866.72,8.69,Low,Delivered,7244.27
+JAL146,2024-02-28,Osaka,New York,Electronics,370.59,25.76,Medium,In Transit,1190.56
+JAL147,2024-10-17,Osaka,Shanghai,Perishable,924.64,42.87,High,Delivered,5975.75
+JAL148,2024-12-10,Fukuoka,New York,Machinery,523.3,45.27,High,In Transit,8729.61
+JAL149,2025-02-09,Nagoya,Shanghai,Pharmaceuticals,4439.39,39.18,Medium,In Transit,4592.05
+JAL150,2024-02-22,Nagoya,Shanghai,Machinery,3153.57,39.44,Medium,Delayed,8222.35
+JAL151,2024-04-21,Tokyo,Shanghai,Perishable,3125.91,23.72,High,Delivered,7646.68
+JAL152,2025-01-14,Nagoya,Singapore,Textiles,4901.05,10.33,Low,In Transit,8387.49
+JAL153,2024-06-11,Osaka,Shanghai,Textiles,2357.86,26.09,High,In Transit,5731.68
+JAL154,2024-12-20,Sapporo,London,Electronics,4254.56,33.97,Medium,In Transit,2287.95
+JAL155,2025-01-26,Fukuoka,London,Electronics,4200.84,35.32,High,Delayed,1209.35
+JAL156,2025-02-03,Tokyo,Shanghai,Perishable,2220.57,6.49,Medium,Delivered,2250.4
+JAL157,2025-01-18,Osaka,Shanghai,Textiles,1075.69,6.0,Low,In Transit,2146.63
+JAL158,2024-03-19,Osaka,Singapore,Textiles,4282.75,22.77,High,Delayed,3666.87
+JAL159,2024-06-08,Osaka,London,Electronics,1302.67,1.43,Medium,In Transit,1296.59
+JAL160,2024-07-14,Sapporo,Sydney,Electronics,2251.55,49.32,High,In Transit,6152.03
+JAL161,2024-12-01,Nagoya,Shanghai,Machinery,3640.18,23.03,High,Delayed,3876.79
+JAL162,2024-06-02,Sapporo,Singapore,Machinery,394.37,46.11,High,Delivered,7242.28
+JAL163,2024-09-22,Fukuoka,London,Textiles,417.35,26.39,Medium,Delayed,610.86
+JAL164,2024-08-09,Tokyo,New York,Electronics,1582.98,29.82,Medium,In Transit,5775.94
+JAL165,2025-01-14,Nagoya,New York,Textiles,3998.92,18.02,Medium,Delivered,8276.69
+JAL166,2024-10-16,Osaka,Sydney,Machinery,2075.09,16.14,Medium,Delivered,9018.33
+JAL167,2024-11-02,Sapporo,Shanghai,Machinery,3746.93,13.56,High,Delayed,8167.14
+JAL168,2024-08-10,Sapporo,London,Perishable,3618.94,9.99,High,Delivered,5713.87
+JAL169,2024-11-27,Nagoya,Singapore,Electronics,3529.37,30.88,Medium,In Transit,7330.26
+JAL170,2024-09-10,Nagoya,Shanghai,Perishable,2742.45,18.56,Medium,In Transit,1329.59
+JAL171,2025-02-08,Fukuoka,London,Machinery,1580.78,45.36,Medium,In Transit,6458.35
+JAL172,2024-12-01,Tokyo,Shanghai,Textiles,3093.66,23.46,High,Delayed,3122.08
+JAL173,2024-08-16,Sapporo,New York,Machinery,2488.96,20.7,Low,In Transit,2544.12
+JAL174,2024-07-12,Sapporo,Sydney,Pharmaceuticals,391.44,46.96,Low,Delivered,1356.64
+JAL175,2024-07-08,Osaka,Sydney,Machinery,4071.85,38.08,High,Delivered,2921.72
+JAL176,2024-08-13,Nagoya,New York,Textiles,357.64,26.13,High,In Transit,7134.05
+JAL177,2024-04-29,Osaka,Shanghai,Textiles,2667.04,39.18,High,Delayed,2968.63
+JAL178,2024-09-22,Fukuoka,Shanghai,Textiles,3964.34,11.96,Medium,In Transit,9130.61
+JAL179,2024-09-30,Osaka,Singapore,Pharmaceuticals,2484.48,34.62,Medium,In Transit,6265.99
+JAL180,2024-05-07,Fukuoka,London,Pharmaceuticals,3573.7,8.5,Medium,In Transit,7704.18
+JAL181,2024-08-22,Nagoya,London,Perishable,3996.2,42.79,Medium,Delivered,5744.09
+JAL182,2025-02-14,Sapporo,New York,Machinery,2174.7,34.24,Medium,In Transit,6341.1
+JAL183,2024-09-22,Sapporo,London,Electronics,2112.65,45.99,Medium,Delayed,9331.55
+JAL184,2025-01-25,Nagoya,Singapore,Textiles,2627.55,48.57,Medium,Delivered,4891.93
+JAL185,2024-10-31,Osaka,New York,Textiles,803.94,30.32,Low,Delayed,884.59
+JAL186,2024-07-08,Tokyo,New York,Perishable,1730.01,33.26,High,In Transit,6888.52
+JAL187,2024-09-19,Osaka,Sydney,Textiles,3913.46,16.59,Low,In Transit,6921.2
+JAL188,2024-07-13,Fukuoka,Shanghai,Textiles,1234.32,22.69,Medium,In Transit,6182.85
+JAL189,2025-01-27,Osaka,Shanghai,Pharmaceuticals,1698.54,13.14,High,In Transit,4726.69
+JAL190,2024-11-26,Tokyo,New York,Machinery,606.44,27.57,Medium,Delayed,1686.03
+JAL191,2024-09-25,Fukuoka,Shanghai,Textiles,2027.66,41.25,Low,In Transit,8212.65
+JAL192,2025-01-17,Fukuoka,Singapore,Perishable,4013.15,38.69,High,Delayed,7908.21
+JAL193,2024-06-22,Osaka,New York,Textiles,126.63,14.94,Low,Delivered,1234.85
+JAL194,2025-01-13,Sapporo,Sydney,Electronics,3252.41,4.93,High,In Transit,9330.87
+JAL195,2024-08-29,Sapporo,New York,Electronics,3204.49,18.55,Low,Delayed,9931.71
+JAL196,2024-03-09,Fukuoka,Singapore,Electronics,1590.93,24.89,High,In Transit,9918.64
+JAL197,2024-04-06,Osaka,Sydney,Machinery,4757.88,8.16,Low,Delivered,9468.21
+JAL198,2024-05-26,Sapporo,Sydney,Electronics,4208.12,23.21,High,Delivered,5515.96
+JAL199,2024-12-12,Osaka,Singapore,Electronics,1730.3,33.97,Medium,In Transit,2817.94
+JAL200,2024-06-09,Tokyo,London,Electronics,2182.06,8.18,Medium,In Transit,5354.0
