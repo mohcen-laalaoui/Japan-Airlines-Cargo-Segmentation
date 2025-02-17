@@ -32,7 +32,7 @@ The dataset contains the following columns:
    cd Japan-Airlines-Cargo-Segmentation
    pip install numpy pandas scikit-learn matplotlib
 
-# Code Structure
+
 Japan-Airlines-Cargo-Segmentation/
 ├── data/
 │   ├── japan_airlines_cargo_traffic.csv             # Input dataset
