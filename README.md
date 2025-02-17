@@ -33,10 +33,32 @@ The dataset contains the following columns:
    pip install numpy pandas scikit-learn matplotlib
 
 
-Japan-Airlines-Cargo-Segmentation/
-├── data/
-│   ├── japan_airlines_cargo_traffic.csv            
-│   └── japan_airlines_cargo_traffic_segmented.csv   
-├── kmeans_clustering.py                             
-├── README.md                                       
-└── cluster_visualization.png                       
+# Data Format
+## Input Data (japan_airlines_cargo_traffic.csv)
+
+.Column descriptions
+.Data types
+.Sample format
+
+## Output Data (japan_airlines_cargo_traffic_segmented.csv)
+
+.Segmentation results
+.Cluster assignments
+.Additional metrics
+
+## Methodology
+
+  ### 1 Data Preprocessing
+  .Handling missing values
+  .Feature scaling
+  .Feature selection
+
+### 2 K-means Clustering
+   .Optimal cluster selection
+   .Model parameters
+   .Validation metrics
+
+## Results
+ .Description of identified segments
+ .Key insights
+ .Visualization explanation               
