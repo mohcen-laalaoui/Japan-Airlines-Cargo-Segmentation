@@ -49,9 +49,9 @@ The dataset contains the following columns:
 ## Methodology
 
   ### 1 Data Preprocessing
-  .Handling missing values\n
-  .Feature scaling\n
-  .Feature selection\n
+  .Handling missing values
+  .Feature scaling
+  .Feature selection
 
 ### 2 K-means Clustering
    .Optimal cluster selection
