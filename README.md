@@ -33,7 +33,7 @@ The dataset contains the following columns:
    pip install numpy pandas scikit-learn matplotlib
 
 # Code Structure
-  Japan-Airlines-Cargo-Segmentation/
+Japan-Airlines-Cargo-Segmentation/
 ├── data/
 │   ├── japan_airlines_cargo_traffic.csv             # Input dataset
 │   └── japan_airlines_cargo_traffic_segmented.csv   # Output segmented data
